@@ -12,7 +12,7 @@ import {
 
   import { Calendar } from "../../../../components/ui/calendar"
 import { Button } from '../../../../components/ui/button';
-import GlobalApi from '../../../_services/GlobalApi';
+import GlobalApi from '../../../../_services/GlobalApi';
 import { useSession } from 'next-auth/react';
 import { toast } from 'sonner';
 import moment from 'moment';
