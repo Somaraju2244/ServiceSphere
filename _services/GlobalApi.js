@@ -1,6 +1,6 @@
 const { gql, default: request } = require("graphql-request")
 
-const MASTER_URL='https://ap-south-1.cdn.hygraph.com/content/'+NEXT_PUBLIC_MASTER_URL_KEY+'/master'
+const MASTER_URL='https://ap-south-1.cdn.hygraph.com/content/cly9ljm1y00s707urgk1whtwg/master'
 
 const getCategory=async()=>{
     const query=gql`
