@@ -2,7 +2,8 @@
 import React, { useEffect, useState } from 'react'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "../../../components/ui/tabs"
 import BookingHistoryList from './_component/BookingHistoryList'
-import GlobalApi from '../../_services/GlobalApi'
+import GlobalApi from '../../../_services/GlobalApi';
+
 import { useSession } from 'next-auth/react'
 import moment from 'moment'
 
