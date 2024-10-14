@@ -1,5 +1,5 @@
 "use client"
-import BusinessList from '../_components/BusinessList';
+import BusinessList from './_components/BusinessList';
 
 import GlobalApi from '../../../../_services/GlobalApi';
 
