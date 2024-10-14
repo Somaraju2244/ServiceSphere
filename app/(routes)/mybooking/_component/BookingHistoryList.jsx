@@ -13,7 +13,8 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "../../../../components/ui/alert-dialog"
-import GlobalApi from '../../../_services/GlobalApi'
+import GlobalApi from '../../../../_services/GlobalApi';
+
 import { toast } from 'sonner'
 
 
