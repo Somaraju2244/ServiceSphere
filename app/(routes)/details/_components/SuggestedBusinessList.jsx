@@ -1,4 +1,5 @@
-import GlobalApi from '../../../_services/GlobalApi';
+import GlobalApi from '../../../../_services/GlobalApi';
+
 import { Button } from '../../../../components/ui/button'
 import {  NotebookPen } from 'lucide-react'
 import Image from 'next/image';
